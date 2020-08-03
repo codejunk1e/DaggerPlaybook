@@ -1,2 +1,2 @@
 # DaggerPlaybook
-Siimple Ap to show simple simple dagger patterns
+Siimple App to show simple dagger patterns
